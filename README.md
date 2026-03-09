@@ -1,6 +1,6 @@
 <div align="center">
 
-# Uptimer
+# Uptimer TELCOWARE AP
 
 **Serverless uptime monitoring & status page on Cloudflare's edge network**
 
